@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2edae99d714f69f47adc6c168ce7f266
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Japanese Tourist
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 033825c798c2c00489a2738a6779b5b5, type: 3}
+  - {fileID: 12800000, guid: 0701801be56de2d40be3d17455e1db89, type: 3}
+  - {fileID: 12800000, guid: 547780b53b97866408aa25fcd5d658c8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

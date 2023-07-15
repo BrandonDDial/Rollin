@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f700df8d02357c0448a4e487a8e02b6d
+  - enabled: 1
+    path: Assets/Scenes/Nomozu'sKitchen.unity
+    guid: 95943d9f58c7fc64c8b8cb8b9f3259e5
   m_configObjects: {}
